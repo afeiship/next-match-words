@@ -21,6 +21,9 @@ const res = nx.matchWords(words);
 // ["How're", 'you', "i'm", 'fine', 'And', 'you']
 ```
 
+## resources
+- https://github.com/regexhq/word-regex
+
 ## license
 Code released under [the MIT license](https://github.com/afeiship/next-match-words/blob/master/LICENSE.txt).
 
