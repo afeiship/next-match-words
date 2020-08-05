@@ -15,7 +15,10 @@ npm install -S @feizheng/next-match-words
 ```js
 import '@feizheng/next-match-words';
 
-//DOCS here!
+const words = "How're you, i'm fine. And you?";
+const res = nx.matchWords(words);
+
+// ["How're", 'you', "i'm", 'fine', 'And', 'you']
 ```
 
 ## license
